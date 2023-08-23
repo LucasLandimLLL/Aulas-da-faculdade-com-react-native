@@ -9,10 +9,8 @@ export default function App() {
   return (
     <View style={styles.container}>
   <MeuComponente />
-      <Text>O bruno é gay</Text>
-      <Text>O bruno é muito gay</Text>
-      <Text>O bruno pare de ser muito gay</Text>
-      <Text>tigas amigo do bruno logo os dois são gays</Text>
+      <Text>não sei dizer o que mudou</Text>
+      
       <StatusBar style="auto" />
     </View>
   );
