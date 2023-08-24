@@ -6,6 +6,7 @@ export default function MinMax(props) {
     console.warn(props);
 
     return (
-        <Text>[max] é maior que [min]</Text>
+        <Text>{max} é maior que {min}</Text>
     );
 }
+ 
